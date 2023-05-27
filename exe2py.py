@@ -423,9 +423,6 @@ def conv2():
 
 
 win = tkinter.Tk()
-showp = tkinter.Tk(
-)
-tkinter.Label(showp, text="正在加载……")
 
 
 String = tkinter.StringVar()
